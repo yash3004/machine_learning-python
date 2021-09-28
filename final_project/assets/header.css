@@ -1,0 +1,28 @@
+.body{
+    background-color: dimgray;
+}
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin rgb(240, 15, 15) solid;
+    background-color:rgba(128, 128, 128, 0.92);
+    text-align: center;
+}
+
+.app-header .app-header--title {
+    font-size: 22px;
+    padding: left 5px;
+}
+.pie-chart{
+    background-color: dimgray;
+}
+.word-cloud{
+    background-color: dimgray;
+}
+.drop-down{
+    background-color: dimgray;
+}
+.text-area_rev{
+
+background-color: dimgray;
+}

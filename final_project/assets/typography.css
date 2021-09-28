@@ -1,0 +1,23 @@
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+.pie-chart img{
+    align-self: center;
+    padding-left: 600px;
+    padding-bottom: 50px;
+   
+
+}
+
+.word-cloud img{
+    padding-left: 550px;
+    padding-bottom: 50px;
+}
+h4{
+    size: 25px;
+    text-align: center;
+    padding-bottom: 50px;
+}
